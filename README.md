@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh ...
 - 🌱 I’m currently learning Full Stack Web Development
 
- <code><a href="https://twitter.com/rishabhdasgupta">Twitter</a></code>
+ <code><a style="background-color:blue" href="https://twitter.com/rishabhdasgupta">Twitter</a></code>
 
  <code>[Twitter](https://github.com/rishabhdasu)</code>
 
