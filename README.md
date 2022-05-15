@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Rishabh ...
 - 🌱 I’m currently learning Full Stack Web Development
- <code>[Twitter](https://twitter.com/rishabhdasgupta)</code>
+
+ <code backgroudnd-color="color:blue">[Twitter](https://twitter.com/rishabhdasgupta)</code>
+ <code>[Twitter](https://github.com/rishabhdasu)</code>
 
 <!---
 rishabhdasu/rishabhdasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
