@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh ...
 - 🌱 I’m currently learning Full Stack Web Development
-- Find me
+
 [Twitter](https://twitter.com/rishabhdasgupta)
 
 <!---
